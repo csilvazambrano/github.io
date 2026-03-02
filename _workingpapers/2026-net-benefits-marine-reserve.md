@@ -8,5 +8,3 @@ status: "Under review"
 ---
 
 **Authors:** Viteri, C., Martinez-Cruz, A., Silva-Zambrano, C., Aravena, C.
-
-This paper estimates the net economic benefits of marine zoning and fishing gear restrictions within the Galapagos Marine Reserve.
