@@ -2,7 +2,7 @@
 title: "Artisanal fisheries provide essential food and nutrition on the Galapagos Islands"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-fisheries-food-security
+permalink: /publication/2026-artisanal-fisheries-food-security
 excerpt: "Examines the contribution of artisanal fisheries to food and nutritional security in the Galapagos Islands and identifies priority areas for policy and sustainability."
 date: 2026-01-01
 venue: "Frontiers in Sustainable Food Systems"
