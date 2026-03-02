@@ -16,7 +16,7 @@ description: &description "Carlos Silva-Zambrano | Environmental economist | Fis
 url                      : https://carlossilvazambrano.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "carlossilvazambrano/carlossilvazambrano.github.io"
+repository               : "csilvazambrano/carlossilvazambrano.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ repository               : "carlossilvazambrano/carlossilvazambrano.github.io"
 author:
   # Biographic information
   avatar           : "/images/profile.jpg"
-  name             : ""
+  name             : "Carlos Silva-Zambrano"
   pronouns         : # example: "she/her"  
   bio              : "Environmental economist specialising in fisheries and marine conservation policy within socio-ecological systems. I use stated preference methods, field-based data collection in Latin America, and interdisciplinary collaboration to inform conservation decision-making and fisheries management"
   location         : "Edinburgh, UK"
@@ -227,6 +227,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  workingpapers:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -268,6 +271,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _workingpapers
+  - scope:
+      path: ""
+      type: workingpapers
     values:
       layout: single
       author_profile: true
