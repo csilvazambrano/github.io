@@ -7,5 +7,4 @@ excerpt: "Tests the Environmental Kuznets Curve hypothesis in Peru considering r
 date: 2018-01-01
 venue: "Renewable and Sustainable Energy Reviews"
 paperurl: "https://doi.org/10.1016/j.rser.2017.11.005"
-citation: "Zambrano, M., Silva-Zambrano, C., Davalos, J., Zambrano, A., Ruano, M. (2018). \"Testing environmental Kuznets curve hypothesis in Peru: The role of renewable electricity, petroleum and dry natural gas.\" <i>Renewable and Sustainable Energy Reviews</i>."
 ---
