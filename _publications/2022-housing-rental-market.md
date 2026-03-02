@@ -7,4 +7,5 @@ excerpt: "Provides empirical evidence on rental market dynamics in a developing 
 date: 2022-01-01
 venue: "Empirical Economics"
 paperurl: "https://doi.org/10.1007/s00181-022-02271-z"
+citation: ""
 ---
