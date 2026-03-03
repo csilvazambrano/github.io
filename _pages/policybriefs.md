@@ -1,10 +1,14 @@
 ---
-layout: archive
+layout: default
 title: "Policy Briefs"
 permalink: /policybriefs/
-collection: policybriefs
-entries_layout: list
 author_profile: true
 ---
+
+{% include base_path %}
+
+{% for post in site.policybriefs %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Selected policy briefs and applied research outputs.
